@@ -1,0 +1,57 @@
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.pdb
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csprojResolveAssemblyReference.cache
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Lokaty.resources
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Properties.Resources.resources
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csproj.GenerateResource.Cache
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+J:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csprojAssemblyReference.cache
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Lokaty.resources
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Properties.Resources.resources
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csproj.GenerateResource.cache
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe
+D:\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\student\Desktop\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+C:\Users\student\Desktop\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+C:\Users\student\Desktop\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csprojAssemblyReference.cache
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Lokaty.resources
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Properties.Resources.resources
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csproj.GenerateResource.cache
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kokpit.resources
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kredyty.resources
+C:\Users\Ja\Desktop\Wprowadzenie do programowania Leszek\Projekt Leszek 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.MileSlowo.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.pdb
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csprojAssemblyReference.cache
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kokpit.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kredyty.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Lokaty.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.MileSlowo.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Properties.Resources.resources
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csproj.GenerateResource.cache
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+F:\Wprowadzenie do programowania Leszek\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe.config
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.exe
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\bin\Debug\LokatyOrazKredyty_Małek.pdb
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.KMsprawdzianSystematyczneOszczedzanie.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kokpit.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Kredyty.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Lokaty.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.MileSlowo.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.Properties.Resources.resources
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.csproj.GenerateResource.Cache
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.exe
+C:\Users\student.LAB\Desktop\Projekt nr 2\LokatyOrazKredyty_Małek\LokatyOrazKredyty_Małek\obj\Debug\LokatyOrazKredyty_Małek.pdb
